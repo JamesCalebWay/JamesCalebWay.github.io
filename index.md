@@ -4,7 +4,7 @@ Portfolio
 Programming Projects
 --------------------
 
-*For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
+*For access to my private project repositories, please [email me](mailto:jcway@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
 ### [Project 1 Title | CSCI 301](project1)
@@ -31,10 +31,10 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Programming in Healthcare](/pdf/Programming in Healthcare.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class: 315**  
+-   **Grade: 95**
 
 ### [Paper 2 Title](/pdf/sample_presentation.pdf)
 
