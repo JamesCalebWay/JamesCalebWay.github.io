@@ -39,7 +39,7 @@ Ethics Papers
 ### [Ethics in the Workplace](/pdf/Ethics in the Workplace.pdf)
 
 -   **Class: CSCI 325** 
--   **Grade:**
+-   **Grade: 80**
 
 ### [Copyright Ethics](/pdf/Copyright Ethics.pdf)
 
