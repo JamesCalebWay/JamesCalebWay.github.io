@@ -6,7 +6,7 @@ Castle of Conquest
 -   **Class: 325** 
 -   **Grade: 100** 
 -   **Language(s): Java** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [Castle-of-Conquest](https://github.com/JamesCalebWay/Castle-of-Conquest)  
     (Please [email me](mailto:jcway@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
