@@ -51,9 +51,9 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Target Credit Card Breach](/pdf/Target Credit Card Breach.pdf)
 
-- **Class:** 
+- **Class: CSCI 301** 
 - **Grade:**
 
 
