@@ -41,9 +41,9 @@ Ethics Papers
 -   **Class: CSCI 325** 
 -   **Grade:**
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Paper 3 Title](/pdf/Copyright Ethics.pdf)
 
--   **Class:** 
+-   **Class: CSCI 301** 
 -   **Grade:**
 
 ---
