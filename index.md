@@ -36,12 +36,12 @@ Ethics Papers
 -   **Class: CSCI 315**  
 -   **Grade: 95**
 
-### [Paper 2 Title](/pdf/Ethics in the Workplace.pdf)
+### [Ethics in the Workplace](/pdf/Ethics in the Workplace.pdf)
 
 -   **Class: CSCI 325** 
 -   **Grade:**
 
-### [Paper 3 Title](/pdf/Copyright Ethics.pdf)
+### [Copyright Ethics](/pdf/Copyright Ethics.pdf)
 
 -   **Class: CSCI 301** 
 -   **Grade:**
