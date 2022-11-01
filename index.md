@@ -12,17 +12,17 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 2 Title | CSCI 315](project1)
+### [Project 2 Title | CSCI 315](project2)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Castle of Conquest | CSCI 325](project1)
+### [Castle of Conquest | CSCI 325](project3)
 
 ![Castle Of ConQuest Starting new game](images/Castle of Conquest/Start.png)
 
 ---
-### [Project 4 Title | CSCI 332](project1)
+### [Project 4 Title | CSCI 332](project4)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
