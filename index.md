@@ -33,12 +33,12 @@ Ethics Papers
 
 ### [Programming in Healthcare](/pdf/Programming in Healthcare.pdf)
 
--   **Class: 315**  
+-   **Class: CSCI 315**  
 -   **Grade: 95**
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Paper 2 Title](/pdf/Ethics in the Workplace.pdf)
 
--   **Class:** 
+-   **Class: CSCI 325** 
 -   **Grade:**
 
 ### [Paper 3 Title](/pdf/sample_presentation.pdf)
