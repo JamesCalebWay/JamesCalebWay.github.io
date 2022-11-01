@@ -1,17 +1,17 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Castle of Conquest
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
+-   **Class: 325** 
+-   **Grade: 100** 
+-   **Language(s): Java** 
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+    (Please [email me](mailto:jcway@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Castle of Conquest is a text-based adventure game where a player traverses through a series of areas, fighting monsters along the way. The player must make their way through four levels before they face off against the final boss to protect their land and win the game. Your hero, guided by a fairy named Nova, must find their way through the land of Ukro to stop the corrupted king in his evil ways.
 
 ## How to compile and run the program
 
