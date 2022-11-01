@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [Project 1 Title | CSCI 301](project1)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Castle Of ConQuest Starting new game](images/Castle of Conquest/Start.png)
 
 ---
 ### [Project 2 Title | CSCI 315](project1)
@@ -17,7 +17,7 @@ Programming Projects
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 3 Title | CSCI 325](project1)
+### [Castle of Conquest | CSCI 325](project1)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
