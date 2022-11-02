@@ -36,15 +36,15 @@ Ethics Papers
 -   **Class: CSCI 315**  
 -   **Grade: 95**
 
-### [Ethics in the Workplace](/pdf/Ethics in the Workplace.pdf)
+### [Ethical Hacking](/pdf/Ethical Hacking.pdf)
 
--   **Class: CSCI 325** 
--   **Grade: 80**
+-   **Class: CSCI 235** 
+-   **Grade: 97.5**
 
 ### [Copyright Ethics](/pdf/Copyright Ethics.pdf)
 
 -   **Class: CSCI 301** 
--   **Grade:**
+-   **Grade: 100**
 
 ---
 
@@ -54,7 +54,7 @@ Presentations
 ### [Target Credit Card Breach](/pdf/Target Credit Card Breach.pdf)
 
 - **Class: CSCI 301** 
-- **Grade:**
+- **Grade: 95**
 
 
 ### [Presentation 2 Title](/pdf/sample_presentation.pdf)
