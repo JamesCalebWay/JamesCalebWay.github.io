@@ -23,17 +23,17 @@ Once a name is chosen, you will be asked to accept the quest. If you chose "no",
 ![No accept](images/Castle of Conquest/Do not accept.png)  
 Fig 2. Do not accept quest
 
-If you do accept the quest then you will start battle (Fig 3).
+If the play accepts the quest then they will start battle (Fig 3).
 
 ![Accept](images/Castle of Conquest/Does accept.png)  
 Fig 3. Accept quest and start battle
 
-Once an enemy is defeated you will be asked if you would like to continue (Fig 4).
+Once an enemy is defeated the player will be asked if they would like to continue (Fig 4).
 
 ![Defeat Enemy](images/Castle of Conquest/Defeat Enemy.png)  
 Fig 4. Defeat Enemy
 
-The player starts the game out with 5 health potions and will be promted to use after each attack. Through defeating enemies the player will be granted one heath potion. After running out of potions the player will be asked if they would like to continue the game (Fig 5.)
+The player starts the game out with 5 health potions and will be promted to use one after each attack. Defeating enemies will grant the player one heath potion. After running out of potions the player will be asked if they would like to continue the game (Fig 5.)
 
 ![No Potions](images/Castle of Conquest/No health potions.png)  
 Fig 5. No more potions prompt
