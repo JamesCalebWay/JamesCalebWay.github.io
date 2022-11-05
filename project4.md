@@ -40,7 +40,7 @@ Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
 
-[Rae Riding Lessons](http://raeridinglessons.infinityfreeapp.com/) is hosted by [InfinityFree](https://www.infinityfree.net/). The back end utalizes MySQL Databases wich is also hosted by InfinityFree.
+[Rae Riding Lessons](http://raeridinglessons.infinityfreeapp.com/) is hosted by [InfinityFree](https://www.infinityfree.net/). The back end utilizes MySQL Databases which is also hosted by InfinityFree.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
