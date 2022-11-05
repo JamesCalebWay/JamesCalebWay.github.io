@@ -22,7 +22,7 @@ Programming Projects
 ![Castle Of ConQuest Starting new game](images/Castle of Conquest/Start.png)
 
 ---
-### [Project 4 Title | CSCI 332](project4)
+### [Rae Riding Lessons | CSCI 495](project4)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
