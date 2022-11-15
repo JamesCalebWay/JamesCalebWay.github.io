@@ -6,7 +6,7 @@ HTML Parser
 -   **Class: CSCI 315** 
 -   **Grade: TBA** 
 -   **Language(s): C++** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [HTML-Parser](https://github.com/JamesCalebWay/HTML-Parser)  
     (Please [email me](mailto:jcway@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
