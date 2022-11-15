@@ -12,9 +12,9 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 2 Title | CSCI 315](project2)
+### [HTML Parser | CSCI 315](project2)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![HTML Parser](/images/HTML%20Parser/Parser.png)
 
 ---
 ### [Castle of Conquest | CSCI 325](project3)
