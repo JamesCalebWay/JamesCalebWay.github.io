@@ -32,6 +32,8 @@ This command will delete the executable file.
 ![parcer](/images/HTML%20Parser/Parser.png)  
 Fig 1. Parcing and Crawling web page.
 
+There are sample HTML files in the pages folder.
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 [Back to Portfolio](./)
