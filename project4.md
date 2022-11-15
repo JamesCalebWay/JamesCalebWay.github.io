@@ -43,7 +43,7 @@ Fig 5. Lesson signup.
 While signed in, the user can veiw a calendar of all the lessons that they have signed up for (Fig. 6) and can update their information such at name, address, and contact information (Fig. 7).
 
 ![profile](https://github.com/JamesCalebWay/JamesCalebWay.github.io/blob/master/images/Rae%20Riding%20Lessons/profile.png)
-Fig 6. User's signup lessons.
+Fig 6. User's lessons.
 
 ![update info](https://github.com/JamesCalebWay/JamesCalebWay.github.io/blob/master/images/Rae%20Riding%20Lessons/update%20info.png)
 Fig 7. Update user info.
