@@ -19,12 +19,12 @@ Programming Projects
 ---
 ### [Castle of Conquest | CSCI 325](project3)
 
-![Castle Of ConQuest Starting new game](images/Castle of Conquest/Start.png)
+![Castle Of ConQuest Starting new game](/images/Castle of Conquest/Start.png)
 
 ---
 ### [Rae Riding Lessons | CSCI 495](project4)
 
-![Project 4 Thumbnail Name](images/Rae Riding Lessons/home.png)
+![Project 4 Thumbnail Name](/images/Rae Riding Lessons/home.png)
 
 ---
 
