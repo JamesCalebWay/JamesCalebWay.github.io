@@ -57,10 +57,10 @@ Presentations
 - **Grade: 95**
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Rae Riding Lessons User Demo](/pdf/sample_presentation.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class: CSCI 495**
+- **Grade: TBA**
 
 ---
 
