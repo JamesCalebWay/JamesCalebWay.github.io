@@ -25,10 +25,7 @@ Next update this command with the path(s) to your HTML file(s). Ex. change `page
 ```bash
 ./html-parser.exe pages/index.html pages/unbalanced1.html pages/unbalanced2.html pages/csu.html pages/theend.html
 ```
-or if you modify the make file to include your files
-```bash
-make given
-```
+
 And thats it. The results will be dispayed in the terminal (Fig. 1)
 
 When you are done, run the make command:
@@ -41,7 +38,13 @@ This command will delete the executable file.
 ![parcer](https://github.com/JamesCalebWay/JamesCalebWay.github.io/blob/master/images/HTML%20Parser/Parser.png)  
 Fig 1. Parcing and Crawling web page.
 
-There are sample HTML files in the pages folder.
+There are sample HTML files in the pages folder which can be used for demostrative purposes. Just run the makefile command:
+
+```bash
+make given
+```
+
+To simplify things further you can modify the make file to include your files.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
