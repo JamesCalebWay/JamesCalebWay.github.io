@@ -15,25 +15,33 @@ The HTML parcer is a commandline application that will parse an HTML file, deter
 
 ## How to compile and run the program
 
-The easiest way to use the parser is to place your HTML files into the included `pages` folder which should be inside the same folder as the parcer `src` folder and the included makeFile. Then in a bash terminal run the make command:
+The easiest way to use the parser is to place your HTML files into the included `pages` folder which should be inside the same folder as the parcer `src` folder and the included makeFile. Then in a bash terminal run the command:
 
+```bash
+g++ -Wall src/html-parser.cpp src/html-parser.hpp src/main.cpp -o html-parser.exe
+```
+
+Next update this command with the path(s) to your HTML file(s). Ex. change `pages/index.html` to `pages/yourFile.html` etc.
+```bash
+./html-parser.exe pages/index.html pages/unbalanced1.html pages/unbalanced2.html pages/csu.html pages/theend.html
+```
+or if you modify the make file to include your files
 ```bash
 make given
 ```
 And thats it. The results will be dispayed in the terminal (Fig. 1)
 
-When you are done run the make command:
+When you are done, run the make command:
 
 ```bash
 make clean
 ```
 This command will delete the executable file.
 
-![parcer](/images/HTML%20Parser/Parser.png)  
+![parcer](https://github.com/JamesCalebWay/JamesCalebWay.github.io/blob/master/images/HTML%20Parser/Parser.png)  
 Fig 1. Parcing and Crawling web page.
 
 There are sample HTML files in the pages folder.
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 [Back to Portfolio](./)
