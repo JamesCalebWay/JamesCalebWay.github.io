@@ -11,7 +11,7 @@ HTML Parser
 
 ## Project description
 
-The HTML parcer is a commandline application that will parse an HTML file, determine if its HTML tags are balanced, and will count the amount of visitable, unique links. Can handle multiple HTML files.
+The HTML parcer is a commandline application that will parse an HTML file, determine if its HTML tags are balanced, and will count the amount of visitable, unique links. The parser can handle multiple HTML files and will display each file with its associated output.
 
 ## How to compile and run the program
 
