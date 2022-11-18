@@ -44,8 +44,6 @@ There are sample HTML files in the pages folder which can be used for demostrati
 make given
 ```
 
-To simplify things further you can modify the make file to include your files.
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+To simplify things further you can modify the makefile to include your files.
 
 [Back to Portfolio](./)
