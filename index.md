@@ -31,17 +31,17 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Programming in Healthcare](/pdf/Programming in Healthcare.pdf)
+### [Programming in Healthcare](/pdf/Programming%20in%20Healthcare.pdf)
 
 -   **Class: CSCI 315**  
 -   **Grade: 95**
 
-### [Ethical Hacking](/pdf/Ethical Hacking.pdf)
+### [Ethical Hacking](/pdf/Ethical%20Hacking.pdf)
 
 -   **Class: CSCI 235** 
 -   **Grade: 97.5**
 
-### [Copyright Ethics](/pdf/Copyright Ethics.pdf)
+### [Copyright Ethics](/pdf/Copyright$20Ethics.pdf)
 
 -   **Class: CSCI 301** 
 -   **Grade: 100**
@@ -51,7 +51,7 @@ Ethics Papers
 Presentations
 -------------
 
-### [Target Credit Card Breach](/pdf/Target Credit Card Breach.pdf)
+### [Target Credit Card Breach](/pdf/Target%20Credit%20Card%20Breach.pdf)
 
 - **Class: CSCI 301** 
 - **Grade: 95**
