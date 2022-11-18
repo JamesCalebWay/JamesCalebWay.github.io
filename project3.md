@@ -57,6 +57,4 @@ The UI is text based.
 
 Castle of Conquest was a group project. I created levelOne.java which contains the designs of the level. Also, I wrote CastleOfConquest.java, which is the overall flow of the game.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 [Back to Portfolio](./)
