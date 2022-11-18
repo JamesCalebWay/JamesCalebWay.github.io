@@ -57,7 +57,7 @@ Presentations
 - **Grade: 95**
 
 
-### [Rae Riding Lessons User Demo](/pdf/sample_presentation.pdf)
+### [Rae Riding Lessons User Demo](https://youtu.be/W3RXVxgiFP8)
 
 - **Class: CSCI 495**
 - **Grade: TBA**
