@@ -41,7 +41,7 @@ Ethics Papers
 -   **Class: CSCI 235** 
 -   **Grade: 97.5**
 
-### [Copyright Ethics](/pdf/Copyright$20Ethics.pdf)
+### [Copyright Ethics](/pdf/Copyright%20Ethics.pdf)
 
 -   **Class: CSCI 301** 
 -   **Grade: 100**
