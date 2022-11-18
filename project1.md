@@ -19,7 +19,23 @@ To run the program just simply copy and paste the code into your project. Just r
 
 ## Here's an example
 
-https://codepen.io/JCWay/pen/YzNyVxK
+<codepen-embed penId="ab123r">
+    <p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="result" data-slug-hash="YzNyVxK" data-user="JCWay" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+      <span>See the Pen <a href="https://codepen.io/JCWay/pen/YzNyVxK">
+      Todo List - jQuery + CSS + HTML</a> by James Caleb Way (<a href="https://codepen.io/JCWay">@JCWay</a>)
+      on <a href="https://codepen.io">CodePen</a>.</span>
+    </p>
+    <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+</codepen-embed>
+
+<coedpen-embed penId="ab123r" height="450">
+        <p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="result" data-slug-hash="YzNyVxK" data-user="JCWay" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+      <span>See the Pen <a href="https://codepen.io/JCWay/pen/YzNyVxK">
+      Todo List - jQuery + CSS + HTML</a> by James Caleb Way (<a href="https://codepen.io/JCWay">@JCWay</a>)
+      on <a href="https://codepen.io">CodePen</a>.</span>
+    </p>
+    <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>    
+</codepen-embed>
 
 ## UI Design
 
