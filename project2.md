@@ -35,7 +35,7 @@ make clean
 ```
 This command will delete the executable file.
 
-![parcer](https://github.com/JamesCalebWay/JamesCalebWay.github.io/blob/master/images/HTML%20Parser/Parser.png)  
+![parcer](/images/HTML%20Parser/Parser.png)  
 Fig 1. Parcing and Crawling web page.
 
 There are sample HTML files in the pages folder which can be used for demostrative purposes. Just run the makefile command:
