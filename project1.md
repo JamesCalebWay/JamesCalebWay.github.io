@@ -4,7 +4,7 @@ To Do List
 ===============
 
 -   **Class: 301** 
--   **Grade: TBA** 
+-   **Grade: 100** 
 -   **Language(s): HTML, CSS, and JS** 
 -   **Source Code Repository:** [To-Do-List](https://github.com/JamesCalebWay/To-Do-List/tree/main)  
     (Please [email me](mailto:jcway@csustudent.net?subject=GitHub%20Access) to request access.)
